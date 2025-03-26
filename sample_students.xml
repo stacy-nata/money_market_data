@@ -1,0 +1,18 @@
+
+<school>
+    <student id="1">
+        <name>Alice</name>
+        <age>23</age>
+        <grade>88.5</grade>
+    </student>
+    <student id="2">
+        <name>Bob</name>
+        <age>25</age>
+        <grade>91.0</grade>
+    </student>
+    <student id="3">
+        <name>Charlie</name>
+        <age>22</age>
+        <grade>95.0</grade>
+    </student>
+</school>
