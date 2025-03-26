@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "name": "Alice",
+      "position": "Developer"
+    },
+    {
+      "name": "Bob",
+      "position": "Manager"
+    }
+  ]
+}
